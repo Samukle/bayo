@@ -1,0 +1,12 @@
+Model abkick
+{
+    Model 0 "abkick.md3"
+    Scale 1.000000 1.000000 1.200000
+    USEACTORPITCH
+    USEACTORROLL
+
+    FrameIndex MDLA A 0 0
+    FrameIndex MDLA B 0 1
+    FrameIndex MDLA C 0 2
+    FrameIndex MDLA D 0 3
+}
